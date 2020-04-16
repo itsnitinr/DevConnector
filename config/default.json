@@ -1,3 +1,4 @@
 {
-    "MongoURI": "mongodb://localhost:27017/devconnectorDB"
+    "MongoURI": "mongodb://localhost:27017/devconnectorDB",
+    "JWTSecret": "aSecretStringForJWT"
 }
